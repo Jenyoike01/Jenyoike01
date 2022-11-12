@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Jenyoike01
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on building applications as well as creating softwares
-- 📫 How to reach me ...
+- 👋 Hi, I’m Jeremy
+- 👀 I’m interested in coxing
+- 🌱 I’m currently learning app development and web development
+- 💞️ I’m looking to collaborate on building applications as well as creating functional websites
+- 📫 How to reach me jeremynyoike384@gmail.com
 
 <!---
 Jenyoike01/Jenyoike01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
